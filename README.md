@@ -1,2 +1,1 @@
-# write-ups
-All my CTF write ups
+## This repo is for all my CTF write ups
