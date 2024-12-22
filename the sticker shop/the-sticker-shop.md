@@ -11,6 +11,7 @@ Can you read the flag at http://10.10.102.26:8080/flag.txt?
 
 ## Accessing http://10.10.102.26:8080
 There is home page and one feedback page.
+
 ![image](https://github.com/user-attachments/assets/b9cfa04d-081c-4b59-8fef-717107a3bba8)
 
 most likely we have to put our payload on the feedback page.
@@ -26,6 +27,7 @@ I became certain that there is XSS in the page. I tried for blind XSS.
 
 ### Creating a server
 I Created a simple server using flask.
+
 ![image](https://github.com/user-attachments/assets/b51c2017-5a94-424b-be59-5e132a634a54)
 
 Code: 
@@ -57,6 +59,7 @@ Enter the payload and click submit.
 
 ### Output
 ![image](https://github.com/user-attachments/assets/f1780783-0d26-4fbb-8d0e-ae540c56086f)
+
 The paylaod works, the website doesnt use cookies so theres no cookie showing.
 
 ## Getting the flag
