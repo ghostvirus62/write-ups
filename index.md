@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ghostvirus's write ups
-theme: minima
+theme: hacker
 ---
 
 # My CTF Write-ups
