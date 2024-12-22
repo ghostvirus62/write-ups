@@ -11,7 +11,7 @@ Feel free to explore and learn from my solutions. Below are some of the CTF chal
 
 ## Write-ups
 
-- [Write-up 1: The Sticker Shop - THM](./write-ups/the-sticker-shop.md)
+- [Write-up 1: The Sticker Shop - THM](./the sticker shop/the-sticker-shop.md)
 
 ## About
 
