@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Sticker Shop THM - Write up
-theme: minima
+theme: hacker
 ---
 
 # The Sticker Shop THM - Write up (Easy)
