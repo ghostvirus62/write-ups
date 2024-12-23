@@ -7,6 +7,7 @@ title: The Sticker Shop THM - Write up
 
 ## Description
 Can you read the flag at http://10.10.102.26:8080/flag.txt?
+link: https://tryhackme.com/r/room/thestickershop
 
 ## Accessing http://10.10.102.26:8080
 There is home page and one feedback page.
